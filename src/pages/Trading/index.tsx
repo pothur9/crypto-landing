@@ -236,7 +236,7 @@ export default function TradingPage() {
               </div>
             </div>
           
-            <div className="container-xs relative z-[3] mt-[-750px] lg:px-5 md:px-5">
+            <div className="container-xs relative z-[3] mt-[-700px] lg:px-5 md:px-5">
               <div className="flex gap-5 md:flex-col">
                 <div className="flex w-full justify-center rounded-[20px] bg-teal-900 px-14 py-[76px] lg:py-8 md:p-5 sm:p-4">
                   <Img
