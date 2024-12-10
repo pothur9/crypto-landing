@@ -1,6 +1,6 @@
 ## pothur_prasanna_kumar_s_application5
 
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
+
 
 ## Description
 
